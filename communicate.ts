@@ -1,4 +1,4 @@
-//% weight=100 color=#0fbc11 icon="\uf1eb" block="My Custom Extension"
+//% weight=100 color=#0fbc11 icon="\uf1eb" block="Communication"
 namespace myCustomExtension {
     /**
      * Display a message on the device.
